@@ -29,7 +29,7 @@ nunjucks.configure("./", {
 })
 
 
-//lista de doadores: Vetor ou Array
+//lista de doadores: Vetor ou Arrayy
 
 //configurar apresentação da página
 server.get("/", function(req, res){
